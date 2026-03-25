@@ -1,3 +1,13 @@
+---
+title: AI Assistant RAG
+emoji: 🤖
+colorFrom: indigo
+colorTo: purple
+sdk: docker
+app_port: 7860
+pinned: false
+---
+
 # 🤖 Gemini RAG Assistant
 
 A complete, end-to-end Retrieval-Augmented Generation (RAG) web application. This assistant allows you to upload PDF and TXT documents and ask questions based strictly on their content, using Google Gemini for reasoning and ChromaDB for local vector storage.
