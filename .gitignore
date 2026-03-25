@@ -1,0 +1,17 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Environment
+.env
+
+# Database
+chroma_db/
+
+# Media/Temporary
+*.txt
+error*.txt
+test.txt
